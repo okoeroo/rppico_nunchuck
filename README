@@ -1,0 +1,3 @@
+# Raspberry Pico Nintendo Nunchuck library.
+
+It reads on I2C all data from the nunchuck and presents it in an object with properties.
