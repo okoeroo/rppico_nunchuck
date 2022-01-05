@@ -14,5 +14,6 @@ while True:
           nun.joy_x(), nun.joy_y(),
           nun.accel_x(), nun.accel_y(),
           nun.accel_z(), nun.buffer)
-    
+
     utime.sleep(0.5)
+
